@@ -8,12 +8,4 @@
 "template_id": "cm58m0GTYxvVApnjVAqIyq2yF0SGi_k_ITBVm799wis	",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["o2OlB6eMYla3VMmwb9Wm6gCYxPDI","o2OlB6Wo0BXKbSrKErvTuPJE5EUM"],
-
-# 信息配置
-# 所在地区
-"province": "河北"，
-# 所在城市
-“city”：“保定”，
-# 生日1
-"birthday1": {"name": "佳佳", "birthday": "2002-07-06"},
 }
